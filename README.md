@@ -27,7 +27,7 @@ ya que por medio de esta podemos crear un SO sobre un SO y procedemos a crear la
 Para crear una nueva maquina virtual, se ingresa a nuestro [VirtualBox][1_2] y en la parte superior aparecen diferentes iconos que permiten lograr nuestro cometido.
 
 [1_2]:https://www.virtualbox.org/
-![screenshot2](img/img_2.jpg)
+![screenshot2](img/img_2.png)
 
 
 
