@@ -23,12 +23,16 @@ ya que por medio de esta podemos crear un SO sobre un SO y procedemos a crear la
 
 [1_1]:https://www.virtualbox.org/
 
-## 2.1 crear una nueva maquina virtual
-Para crear una nueva maquina virtual, se ingresa a nuestro [VirtualBox][1_2] y en la parte superior aparecen diferentes iconos que permiten lograr nuestro cometido.
+## 2.1 Abrir la maquina virtual
+Para acceder a nuestra  maquina virtual, se debe ingresar pormedio de su acceso rapido que se encuentra  nuestro caso en el escritorio            ![VirtualBox][1_2] 
 
 [1_2]:https://www.virtualbox.org/
 ![screenshot2](img/img_2.png)
 
+## 2.2 Crear la nueva maquina virtual
+Una vez de haber accedido a nuestra maquina virtual, se le debe dar clic en el icono nueva
+
+![screenshot2](img/img_3.png)
 
 
 ## 2.2 Nombre y ubicacion del SO
