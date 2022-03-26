@@ -44,19 +44,19 @@ luego de esto presionar "Next".
 
 ## 2.4 Tamaño de memoria
 Ahora nos aparece una ventana en la cual tenemos que asignar la cantidad de Memoria RAM, esta debe ser determinada por la cantidad de memoria ram que posee nuestro equipo,por ejemplo mi pc posee 8 de Ram, de las cuales 4 se le asignara a este SO.
-Esta opcion pude ser por medio de la asignacion de memoria por medio de la barra o para ser muy preciso, se puede hacer manualmente.
-![screenshot4](img/screenshot4.png)
+Esta opcion puede ser por medio de la asignacion de memoria por medio de la barra o para ser muy preciso, se puede hacer manualmente.
+![img_5](img/img_05.png)
 
-## 2.4 Disco Duro
+## 2.5 Disco Duro
 Nuesta maquina virtual necesita un disco duro en el que almacenara toda la informacion que manejaremos ahi.
 En esta pestaña nos da tres opciones, la primera nos la da para no añadir un disco duro, la segunda es para crear una disco duro
 virtual y asi guardar informacion, la tercera y ultima opcion es por si depronto tenemos un archivo que anteriormente por ejemplo
 hayamos utilizado como disco duro de otra maquina virtual y lo utilizariamos en la que estamos creando; en este caso le daremos en la segunda opcion
 porque crearemos una nuevo.
 
-![screenshot5](img/screenshot5.png )
+![img_6](img/img_06.png )
 
-## 2.5 tipo de archivo de disco duro
+## 2.6 tipo de archivo de disco duro
 * [VDI (VirtualBox Disk Image)][2.5.1]: es la selección por defecto,es la imagen de un disco duro virtual
      o el disco lógico asociado con una máquina virtual.
 * [VHD (Virtual Hard Disk)][2.5.2]: es la opción a elegir si lo que queremos es crear un disco virtual
@@ -72,12 +72,12 @@ porque crearemos una nuevo.
 
 En nuestro caso marcaremos la primera opcion VDI y presionaremos siguiente.
 
-![screenshot6](img/screenshot6.png)
+![img7](img/img_07.png)
 
 [2.5.1]:https://www.techopedia.com/definition/10933/virtual-disk-image-vdi
 [2.5.2]:https://megazona.com/software/tipos-de-archivo-de-disco-duro-virtual-en-virtualbox
 
-## 2.6 Almacenamiento de unidad fisica del disco duro
+## 2.7 Almacenamiento de unidad fisica del disco duro
 En este punto nos pide seleccionar si queremos nuestro disco duro <b>reservado dinamicamente </b> que solo se usara espacio
 en el disco fisico a medida que se llena (hasta un maximo tamaño fijo), sin embargo
 no se reducira de nuevo automaticamente cuando el espacio en él se libere o el <b>Tamaño fijo</b> que puede tomar
@@ -85,14 +85,12 @@ mas tiempo para su creacion en algunos sistemas, pero normalmente es mas rapido 
 
 En nuestro caso utilizaremos la opcion 1 puesto que queremos una candidad especifica para nuestro SO.
 
-![screenshot7](img/screenshot7.png)
+![img8](img/img_08.png)
 
-## 2.7 Ubicacion del archivo y tamaño
-En este paso ya practicamente hemos configurado la parte de almacenamiento en nuestro disco,
-ahora solamente falta asignar la cantidad de almacenamiento que queremos que este tenga y
-posterior a ello la ubicacionde donde se encontrara ese archivo.
+## 2.8 Ubicacion del archivo y tamaño
+En este paso se debe crear un disco duro con un minimo de 10GB, porque esto es el requerimiento minimo de este SO.
 
-![screenshot8](img/screenshot8.png)
+![img9](img/img_09.png)
 
 seleccionamos la opcion crear para crear nuestra maquina virtual. 
 
@@ -106,22 +104,22 @@ En las configuraciones siempre nos salen opciones para poder modificar algo que 
 
 en esta ventana nos vamos al apartado de almacenamiento porque aqui es donde vamos a cargar la imagen iso
 en una unidad de disco que se crea al momento de hacer el proceso del disco duro 
-![screenshot9](img/screenshot9.png)
+![img10](img/img_10.png)
 
 
 
 ## 3.2 Selección del disco
 Se selecciona el disco en la cual cargaremos la imagen
 
-![screenshot10](img/screenshot10.jpg)
+![img11](img/img_11.png)
 
 ## 3.3 Busqueda
 Seleccionamos en nuestros archivos la ubicación de nuestra imagen iso y la seleccionamos
 
-![screenshot11](img/screenshot11.png)
+![img12](img/img_12.png)
 
 Posteriormente le damos en "aceptar" para cconfirmar nustra configuracion
-![screenshot12](img/screenshot12.png)
+![img13](img/img_13.png)
 
 ## 3.4 Crear
 En este caso se necesita crear otra unidad para, asi que para crearla se necesita hacer lo siguiente
