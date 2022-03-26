@@ -27,23 +27,23 @@ ya que por medio de esta podemos crear un SO sobre un SO y procedemos a crear la
 Para acceder a nuestra  maquina virtual, se debe ingresar pormedio de su acceso rapido que se encuentra  nuestro caso en el escritorio            ![VirtualBox][1_2] 
 
 [1_2]:https://www.virtualbox.org/
-![screenshot2](img/img_2.png)
+![img_02](img/img_02.png)
 
 ## 2.2 Crear la nueva maquina virtual
 Una vez de haber accedido a nuestra maquina virtual, se le debe dar clic en el icono nueva
 
-![screenshot2](img/img_3.png)
+![img_3](img/img_03.jpg)
 
 
-## 2.2 Nombre y ubicacion del SO
+## 2.3 Nombre y ubicacion del SO
 Organizar en que carpeta desea ubicar la maquina virtual, lo cual por defecto viene 
 en una carpeta del mismo software
-![screenshot3](img/screenshot3.jpg)
+![img_4](img/img_04.png)
 
 luego de esto presionar "Next".
 
-## 2.3 Tamaño de memoria
-Ahora nos aparece una ventana en la cual tenemos que asignar la cantidad de Memoria RAM, esta debe ser determinada por la cantidad de memoria ram que posee nuestro equipo,por ejemplo mi pc posee 8 Ram de las cuales 4 se le asignara a este SO.
+## 2.4 Tamaño de memoria
+Ahora nos aparece una ventana en la cual tenemos que asignar la cantidad de Memoria RAM, esta debe ser determinada por la cantidad de memoria ram que posee nuestro equipo,por ejemplo mi pc posee 8 de Ram, de las cuales 4 se le asignara a este SO.
 Esta opcion pude ser por medio de la asignacion de memoria por medio de la barra o para ser muy preciso, se puede hacer manualmente.
 ![screenshot4](img/screenshot4.png)
 
