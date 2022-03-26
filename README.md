@@ -10,7 +10,7 @@ tanto, que recién instalada ya trae todo lo necesario para empezar a usar Steam
 instalacion paso a paso de Solus.
 
 ## 1. Descarga
-Descargamos la imagen iso del SO [Solus][1_0] que pesa aproximadamente 2 Gb
+Descargamos la imagen iso del SO [Solus][1_0] Budgie que pesa aproximadamente 2 Gb
 
 ![paginaWeb](img/img_01.png)
 
@@ -27,7 +27,7 @@ ya que por medio de esta podemos crear un SO sobre un SO y procedemos a crear la
 Para crear una nueva maquina virtual, se ingresa a nuestro [VirtualBox][1_2] y en la parte superior aparecen diferentes iconos que permiten lograr nuestro cometido.
 
 [1_2]:https://www.virtualbox.org/
-![screenshot2](img/screenshot2.jpg)
+![screenshot2](img/img_2.jpg)
 
 
 
