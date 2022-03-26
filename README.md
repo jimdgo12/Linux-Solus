@@ -1,2 +1,3 @@
 # Linux-Solus
-trabajo
+Este es un nuevo sistema operativo
+
