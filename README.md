@@ -124,16 +124,16 @@ Posteriormente le damos en "aceptar" para cconfirmar nustra configuracion
 ## 3.4 Crear
 En este caso se necesita crear otra unidad para, asi que para crearla se necesita hacer lo siguiente
 le damos en el controlador IDE y en l¿el icono de disco duro
-![screenshot32](img/screenshot32.jpg)
+![img14](img/img_14.png)
 
 luego de eso, si se tiene la unidad ya creada, se selecciona, si no se debe crear con el icono que sale alli
 y seguir los mismos pasos desde el punto <b>2.4</b> de este tutorial
 
-![screenshot33](img/screenshot33.png)
+![img15](img/img_15.png)
 
 y para finalizarlo, asi quedaria el otro disco creado, en el mismos controlador IDE
 
-![screenshot34](img/screenshot34.png)
+![img16](img/img_15.png)
 
 
 
