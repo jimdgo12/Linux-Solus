@@ -90,7 +90,7 @@ En nuestro caso utilizaremos la opcion 1 puesto que queremos una candidad especi
 ## 2.8 Ubicacion del archivo y tamaño
 En este paso se debe crear un disco duro con un minimo de 10GB, porque esto es el requerimiento minimo de este SO.
 
-![img9](img/img_17.png)
+![img17](img/img_17.png)
 
 seleccionamos la opcion crear para crear nuestra maquina virtual. 
 
