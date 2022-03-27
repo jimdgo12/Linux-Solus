@@ -133,23 +133,39 @@ y seguir los mismos pasos desde el punto <b>2.4</b> de este tutorial
 
 y para finalizarlo, asi quedaria el otro disco creado, en el mismos controlador IDE
 
-![img16](img/img_15.png)
+![img16](img/img_16.png)
 
 
 
 # 4. Ejecutar SO
-En este punto ya hemos creado y configurado nuestra maquina virtual con el SO Manjaro,
-lo que sigue a continuacion es la ejecucion de de la maquina para ver si fue correctamente creada
-![screenshot13](img/screenshot13.jpg)
-y si es asi, se abrira un menu en la cual nos da las siguientes opciones
-![screenshot14](img/screenshot14.png)
-seleccionaremos la opcion "Boot with open source drivers", en este momento nos damos cuenta que 
-nuestro SO fue cargado con exito, y procedemos a seleccionar esta opcion para poder tener la distribucion
-completa puesto que Linux es un SO libre.
+En este punto ya hemos creado y configurado nuestra maquina virtual con el SO Solus,
+lo que sigue a continuacion es la ejecucion de de la maquina para ver si fue correctamente creada y le damos clic en el icono iniciar.
+![img19](img/img_19.png)
 
-posterior a esto saldra la siguiente ventana que nos da una bienvenida al SO Manjaro 
-![screenshot15](img/screenshot15.png)
+En este paso se nos abre la interfaz de solus, aqui debemos de darle en la opcion install os
+![img20](img/img_20.png)
 
+# 4.1 crear las particiones del disco
+una vez ingresado en la interfaz nos dirigimos a la parte inferior izquierdo y le damos click en el conjunto de cuadros
+
+![img21](img/img_21.png)
+
+una vez le demos click en los cuadros, se dirigen a la barra de busqueda e ingresamos gparted y le damos clic
+
+![img22](img/img_22.png)
+
+en este punto se puede disponer a crear la particion de los discoas.
+se da click en el boton device y se escoge la opcion
+
+![img23](img/img_23.png)
+
+Se selecciona el tipo de particion y se da clici en el boton apply
+
+![img24](img/img_24.png)
+
+despues de estos pasos se da clic derecho del mouse en la linea de color azul y se escoge la opcion new
+
+![img25](img/img_25.png)
 ## 4.1 Configuracion Manjaro
 luego de esto procedemos a hacer las configuraciones basicas que tenemos que hacer 
 para tener una buena experiencia en el SO.
