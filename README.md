@@ -98,7 +98,7 @@ seleccionamos la opcion crear para crear nuestra maquina virtual.
 
 # 3. Configuraciones
 una ves creada la maquina virtual, accedemos a las configuraciones de la misma para poder cargar nuestra
-imagen iso que descargamos inicialmente; a continuacion mostraremos el paso a paso de la carfa de la imafen iso
+imagen iso que descargamos inicialmente; a continuacion mostraremos el paso a paso de la carga de la imagen iso
 
 ## 3.1 Almacenamiento
 En las configuraciones siempre nos salen opciones para poder modificar algo que depronto nos haga falta.
