@@ -139,7 +139,7 @@ y para finalizarlo, asi quedaria el otro disco creado, en el mismos controlador 
 # 4. Ejecutar SO
 En este punto ya hemos creado y configurado nuestra maquina virtual con el SO Solus,
 lo que sigue a continuacion es la ejecucion de de la maquina para ver si fue correctamente creada y le damos clic en el icono iniciar.
-![img19](img/img_19.png)
+![img56](img/img_56.png)
 
 En este paso se nos abre la interfaz de solus, aqui debemos de darle en la opcion install os
 ![img20](img/img_20.png)
