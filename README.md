@@ -222,7 +222,7 @@ Se debe seleccionar la segunda opcion porque se crearon los discos con sus parti
 Se debe dejar igual la configuracion a la imagen y se le da click en el boton next
 
 
-![img47](img/img_47.png)
+![img66](img/img_66.png)
 
 Configura el motor de arranque
 
@@ -245,36 +245,7 @@ En este punto se ha terminado la instalacion del SO linux Solus
 ![img53](img/img_53.png)
 
 
-Continuando con la configuracion se escoge la segunda opcion 
 
-![img65](img/img_65.png)
-
-Se debe realizar la configuracion que se muestra en la imagen
-
-![img66](img)
-
-# 4.4 Configuracion del sistema
-aqui se le debe colocar un nombre a la maquina para identificarla en la red
-
-![img35](img/img_35.png)
-
-# 4.5 Datos de la maquina
-
-Aqui se introduce los datos de la persona que utilizara la maquina
-
-![img36](img/img_36.png)
-
-La maquina arroja los datos de ella
-
-![img37](img/img_37.png)
-
-En este punto se le da click en el boton install
-
-![img39](img/img_39.png)
-
-ultimo paso en la configuracion de la particion de los discos y se le da click en el boton restart now
-
-![img40](img/img_40.png)
 
 
 # Tutotial hecho por:
