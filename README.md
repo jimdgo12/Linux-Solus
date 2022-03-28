@@ -132,7 +132,7 @@ y seguir los mismos pasos desde el punto <b>2.4</b> de este tutorial
 ![img54](img/img_54.png)
 y para finalizarlo, asi quedaria el otro disco creado, en el mismos controlador IDE
 
-![img16](img/img_16.png)
+![img55](img/img_55.png)
 
 
 
