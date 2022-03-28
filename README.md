@@ -141,8 +141,7 @@ En este punto ya hemos creado y configurado nuestra maquina virtual con el SO So
 lo que sigue a continuacion es la ejecucion de de la maquina para ver si fue correctamente creada y le damos clic en el icono iniciar.
 ![img56](img/img_56.png)
 
-En este paso se nos abre la interfaz de solus, aqui debemos de darle en la opcion install os
-![img20](img/img_20.png)
+
 
 # 4.1 crear las particiones del primer disco
 una vez ingresado en la interfaz nos dirigimos a la parte inferior izquierdo y le damos click en el conjunto de cuadros
