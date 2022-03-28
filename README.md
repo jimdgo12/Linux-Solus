@@ -179,7 +179,7 @@ despues de estos pasos se da clic derecho del mouse en la linea de color azul y 
 
   En la esquina superior derecha, desplegamos la lista y escogemos el disco de 4GB
 
-   ![img29](img/img_29.png)
+   ![img49](img/img_49.png)
 
    En este disco se realizan los mismos pasos, solo que se deben colocar los valores que estan en la imagen y se le da click en el boton add
 
