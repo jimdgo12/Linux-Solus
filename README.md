@@ -181,7 +181,7 @@ despues de estos pasos se da clic derecho del mouse en la linea de color azul y 
 
    En este disco se realizan los mismos pasos, solo que se deben colocar los valores que estan en la imagen y se le da click en el boton add
 
-   ![img61](img/img_61.png)
+   ![img63](img/img_63.png)
 
 Se continua con los mismos pasos del la particion del primer disco hasta llegar al final y se le da click en el boton cancelar
 
