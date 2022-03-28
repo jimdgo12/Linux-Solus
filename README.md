@@ -145,7 +145,7 @@ lo que sigue a continuacion es la ejecucion de de la maquina para ver si fue cor
 En este paso se nos abre la interfaz de solus, aqui debemos de darle en la opcion install os
 ![img20](img/img_20.png)
 
-# 4.1 crear las particiones del disco
+# 4.1 crear las particiones del primer disco
 una vez ingresado en la interfaz nos dirigimos a la parte inferior izquierdo y le damos click en el conjunto de cuadros
 
 ![img21](img/img_21.png)
@@ -154,7 +154,7 @@ una vez le demos click en los cuadros, se dirigen a la barra de busqueda e ingre
 
 ![img22](img/img_22.png)
 
-en este punto se puede disponer a crear la particion de los discoas.
+en este punto se puede disponer a crear la particion del dico de 32MG de los discos.
 se da click en el boton device y se escoge la opcion
 
 ![img23](img/img_23.png)
@@ -166,76 +166,60 @@ Se selecciona el tipo de particion y se da clici en el boton apply
 despues de estos pasos se da clic derecho del mouse en la linea de color azul y se escoge la opcion new
 
 ![img25](img/img_25.png)
-## 4.1 Configuracion Manjaro
-luego de esto procedemos a hacer las configuraciones basicas que tenemos que hacer 
-para tener una buena experiencia en el SO.
+ 
+ El proximo paso es colocar los valores que aparecen en la imagen y dar click en el boton add
 
-Inicialmente se nos va a desplegar una ventana en al que esta el paso a paso de las configuraciones,
+ ![img27](img/img_27.png)
 
-* iniciamos configurando el origen del equipo.
+ En el ultimo paso de la particion del disco le damos en la opcion close
 
-![screenshot17](img/screenshot17.png)
+  ![img28](img/img_28.png)
 
-* Luego seleccionamos el idioma del teclado para utilizar
+  # 4.2 Crear las particiones del segundo disco
 
-![screenshot18](img/screenshot18.png)
+  En la esquina superior derecha, desplegamos la lista y escogemos el disco de 4GB
 
-## Particiones de disco
-En la siguiente ventana se presentan 2 opciones, la primera es borrar el disco, basicamente porque recien esta instalando el SO
-y la otra es la opcion de conservar la informacion y realizar particiones, en nuestro caso, escogeriamos la segunda,
-ya que necesitamos modificarlo
+   ![img29](img/img_29.png)
 
-![screenshot19](img/screenshot19.png)
+   En este disco se realizan los mismos pasos, solo que se deben colocar los valores que estan en la imagen y se le da click en el boton add
 
-procedemos a hacer las particiones necesarios que cada usuario necesita
-en este caso hare 2 partciciones en el primer disco y una sola en el segundo.
+   ![img30](img/img_30.png)
 
-aqui nos muestra los Discos que tenemos con posibilidad de modificarlo
-![screenshot20](img/screenshot20.png)
+Se continua con los mismos pasos del la particion del primer disco hasta llegar al final y se le da click en el boton cancelar
 
-primero modificaremos el disco 1, lo seleccionamos y le damos borrar para hacer las particiones desde cero.
+![img31](img/img_31.png)
 
-![screenshot21](img/screenshot21_LI.jpg)
+# 4.3 Comprobar si fue realizado bien los pasos
 
-luego quedara disponible para modificacion toda la unidad, la seleccionamos y le damos crear para hacer 
-la primera particion.
+A continuacion se presenta la imagen que muestra la configuracion correcta de los pasos
 
-Aqui hay que tener algo encuenta, y es que en la primera particion se le pone de tamaño 
-la misma cantidad de megas que se puso de memoria RAM al inicio de la instalacion, luego cambiamos la
-opcion en sistemas de archivos y lo ponemos en <b>"linuxswap"</b> 
+![img32](img/img_32.png)
 
-![screenshot23](img/screenshot23.png)
+Continuando con la configuracion se escoge la segunda opcion 
 
-Asignamos el tamaño que queda en la otra particion para el disco, pero aqui hacemos una modificacion
-ponemos el sistema de archivos en ext4 y le ponemos como punto de anclaje el <b>root ( / ) </b> que en este 
-y le damos siguiente
-![screenshot27](img/screenshot27.png)
+![img33](img/img_33.png)
+Se debe realizar la configuracion que se muestra en la imagen
 
-como en este caso tenemos 2 discos, nos falta modificar el segundo disco y hacemos lo mismo que con el anterior
-solo le dejamos todo el tamaño ya que solo sera una particion, y en el punto de anclase le ponemos <b>/home</b> el 
-cual sera el almacenamiento de nuestros archivos <b>(en este ejercicio)</b>
+![img34](img/img_34.png)
 
-![screenshot28](img/screenshot28.png)
+# 4.4 Configuracion del sistema
+aqui se le debe colocar un nombre a la maquina para identificarla en la red
 
-para finalizar el area de particiones le damos siguiente (ok)
+![img35](img/img_35.png)
 
-Siguiendo con la configuracion, nos muestra los datos del usuario, para seguir llenamos las correspondientes
-casillas
+# 4.5 Datos de la maquina
 
-![screenshot29](img/screenshot29.png)
+Aqui se introduce los datos de la persona que utilizara la maquina
 
-para casi terminar la congifuracion de Manjaro, nos muestra un resumen de las configuraciones
-anteriores que hicimos.
-![screenshot30](img/screenshot30.png)
+![img36](img/img_36.png)
 
- para terminar le damos en el boton <b>instalar</b> para comenzar el proceso de instalacion
+La maquina arroja los datos de ella
 
-![screenshot32](img/screenshot31.png)
+![img37](img/img_37.png)
 
+En este punto se le da click en el boton install
 
-para finalizar, asi estaria el desktop de Manjaro listo para utilizarse.
-
-![screenshot35](img/screenshot35.png)
+![img39](img/img_39.png)
 
 
 # Tutotial hecho por:
