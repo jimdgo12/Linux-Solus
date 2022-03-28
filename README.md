@@ -159,7 +159,7 @@ se da click en el boton device y se escoge la opcion
 
 Se selecciona el tipo de particion y se da clici en el boton apply
 
-![img57](img/img_57.png)
+![img58](img/img_58.png)
 
 despues de estos pasos se da clic derecho del mouse en la linea de color azul y se escoge la opcion new
 
