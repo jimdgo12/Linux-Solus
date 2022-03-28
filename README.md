@@ -43,8 +43,9 @@ en una carpeta del mismo software
 luego de esto presionar "Next".
 
 ## 2.4 Tamaño de memoria
-Ahora nos aparece una ventana en la cual tenemos que asignar la cantidad de Memoria RAM, esta debe ser determinada por la cantidad de memoria ram que posee nuestro equipo,por ejemplo mi pc posee 8 de Ram, de las cuales 4 se le asignara a este SO.
+Ahora nos aparece una ventana en la cual tenemos que asignar la cantidad de Memoria RAM, esta debe ser determinada por la cantidad de memoria ram que posee nuestro equipo, por ejemplo mi pc posee 8 de Ram, de las cuales 4 se le asignara a este SO.
 Esta opcion puede ser por medio de la asignacion de memoria por medio de la barra o para ser muy preciso, se puede hacer manualmente.
+
 ![img_5](img/img_05.png)
 
 ## 2.5 Disco Duro
