@@ -129,7 +129,7 @@ le damos en el controlador IDE y en l¿el icono de disco duro
 luego de eso, si se tiene la unidad ya creada, se selecciona, si no se debe crear con el icono que sale alli
 y seguir los mismos pasos desde el punto <b>2.4</b> de este tutorial
 
-![img54](img/img_53.png)
+![img54](img/img_54.png)
 y para finalizarlo, asi quedaria el otro disco creado, en el mismos controlador IDE
 
 ![img16](img/img_16.png)
