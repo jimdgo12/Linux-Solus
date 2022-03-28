@@ -217,7 +217,7 @@ Se configura la zona horaria y se le da click en el boton next
 
 Se debe seleccionar la segunda opcion porque se crearon los discos con sus particiones y se le da click en el boton next
 
-![img46](img/img_46.png)
+![img69](img/img_69.png)
 
 Se debe dejar igual la configuracion a la imagen y se le da click en el boton next
 
