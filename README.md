@@ -195,10 +195,11 @@ A continuacion se presenta la imagen que muestra la configuracion correcta de lo
 
 Continuando con la configuracion se escoge la segunda opcion 
 
-![img33](img/img_33.png)
+![img65](img/img_65.png)
+
 Se debe realizar la configuracion que se muestra en la imagen
 
-![img34](img/img_34.png)
+![img66](img/img_66.png)
 
 # 4.4 Configuracion del sistema
 aqui se le debe colocar un nombre a la maquina para identificarla en la red
