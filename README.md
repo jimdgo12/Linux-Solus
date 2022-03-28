@@ -191,7 +191,7 @@ Se continua con los mismos pasos del la particion del primer disco hasta llegar 
 
 A continuacion se presenta la imagen que muestra la configuracion correcta de los pasos
 
-![img32](img/img_32.png)
+![img64](img/img_64.png)
 
 Continuando con la configuracion se escoge la segunda opcion 
 
