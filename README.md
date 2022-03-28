@@ -150,7 +150,7 @@ una vez ingresado en la interfaz nos dirigimos a la parte inferior izquierdo y l
 
 una vez le demos click en los cuadros, se dirigen a la barra de busqueda e ingresamos gparted y le damos clic
 
-![img22](img/img_22.png)
+![img57](img/img_57.png)
 
 en este punto se puede disponer a crear la particion del dico de 32MG de los discos.
 se da click en el boton device y se escoge la opcion
