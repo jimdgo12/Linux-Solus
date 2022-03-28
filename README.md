@@ -167,7 +167,7 @@ despues de estos pasos se da clic derecho del mouse en la linea de color azul y 
  
  El proximo paso es colocar los valores que aparecen en la imagen y dar click en el boton add
 
- ![img27](img/img_27.png)
+ ![img59](img/img_59.png)
 
  En el ultimo paso de la particion del disco le damos en la opcion close
 
