@@ -185,7 +185,7 @@ despues de estos pasos se da clic derecho del mouse en la linea de color azul y 
 
 Se continua con los mismos pasos del la particion del primer disco hasta llegar al final y se le da click en el boton cancelar
 
-![img31](img/img_31.png)
+![img62](img/img_62.png)
 
 # 4.3 Comprobar si fue realizado bien los pasos
 
