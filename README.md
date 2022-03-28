@@ -89,7 +89,7 @@ En nuestro caso utilizaremos la opcion 1 puesto que queremos una candidad especi
 ![img8](img/img_08.png)
 
 ## 2.8 Ubicacion del archivo y tamaño
-En este paso se debe crear un disco duro con un minimo de 10GB, porque esto es el requerimiento minimo de este SO.
+En este paso se debe crear un disco duro con un minimo de 10GB, porque esto es el requerimiento del  SO, sin embargo, en este ejercicio se creo el disco duro con la capacidad de 32GB
 
 ![img17](img/img_17.png)
 
