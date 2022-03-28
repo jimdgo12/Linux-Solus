@@ -221,6 +221,15 @@ En este punto se le da click en el boton install
 
 ![img39](img/img_39.png)
 
+ultimo paso en la configuracion de la particion de los discos y se le da click en el boton restart now
+
+![img40](img/img_40.png)
+
+# Configuracion install os
+En esta configuracion es cuando aparece la interfas de solus
+
+![img41](img/img_41.png)
+
 
 # Tutotial hecho por:
 * Diego Marcelo Jimenez Melendez
