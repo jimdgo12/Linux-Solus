@@ -226,9 +226,39 @@ ultimo paso en la configuracion de la particion de los discos y se le da click e
 ![img40](img/img_40.png)
 
 # Configuracion install os
-En esta configuracion es cuando aparece la interfas de solus
+En esta configuracion es cuando aparece la interfas de solus y se le da click en install os
 
 ![img41](img/img_41.png)
+
+Configuracion del idioma y se le da en el boton next
+
+![img42](img/img_42.png)
+
+Se configura la ubicacion y se le da click en el boton next
+
+![img43](img/img_43.png)
+
+Se configura el idioma del teclado y se le da click en el boton next
+
+![img44](img/img_44.png)
+
+Se configura la zona horaria y se le da click en el boton next
+
+![img45](img/img_45.png)
+
+Se debe seleccionar la segunda opcion porque se crearon los discos con sus particiones y se le da click en el boton next
+
+![img46](img/img_46.png)
+
+Se debe dejar igual la configuracion a la imagen y se le da click en el boton next
+
+
+![img47](img/img_47.png)
+
+Configura el motor de arranque
+
+![img48](img/img_48.png)
+
 
 
 # Tutotial hecho por:
