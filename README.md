@@ -193,45 +193,15 @@ A continuacion se presenta la imagen que muestra la configuracion correcta de lo
 
 ![img64](img/img_64.png)
 
-Continuando con la configuracion se escoge la segunda opcion 
+# 4.4 Configuracion install os
+Esta es la configuracion que continua una vez terminada la configuracion de la particion de los discos
+En la interfaz de solus se ingresa en install os
 
-![img65](img/img_65.png)
-
-Se debe realizar la configuracion que se muestra en la imagen
-
-![img66](img/img_66.png)
-
-# 4.4 Configuracion del sistema
-aqui se le debe colocar un nombre a la maquina para identificarla en la red
-
-![img35](img/img_35.png)
-
-# 4.5 Datos de la maquina
-
-Aqui se introduce los datos de la persona que utilizara la maquina
-
-![img36](img/img_36.png)
-
-La maquina arroja los datos de ella
-
-![img37](img/img_37.png)
-
-En este punto se le da click en el boton install
-
-![img39](img/img_39.png)
-
-ultimo paso en la configuracion de la particion de los discos y se le da click en el boton restart now
-
-![img40](img/img_40.png)
-
-# Configuracion install os
-En esta configuracion es cuando aparece la interfas de solus y se le da click en install os
-
-![img41](img/img_41.png)
+![img67](img/img_67.png)
 
 Configuracion del idioma y se le da en el boton next
 
-![img42](img/img_42.png)
+![img68](img/img_68.png)
 
 Se configura la ubicacion y se le da click en el boton next
 
@@ -273,6 +243,39 @@ En este punto se da click en el boton install
 En este punto se ha terminado la instalacion del SO linux Solus
 
 ![img53](img/img_53.png)
+
+
+Continuando con la configuracion se escoge la segunda opcion 
+
+![img65](img/img_65.png)
+
+Se debe realizar la configuracion que se muestra en la imagen
+
+![img66](img)
+
+# 4.4 Configuracion del sistema
+aqui se le debe colocar un nombre a la maquina para identificarla en la red
+
+![img35](img/img_35.png)
+
+# 4.5 Datos de la maquina
+
+Aqui se introduce los datos de la persona que utilizara la maquina
+
+![img36](img/img_36.png)
+
+La maquina arroja los datos de ella
+
+![img37](img/img_37.png)
+
+En este punto se le da click en el boton install
+
+![img39](img/img_39.png)
+
+ultimo paso en la configuracion de la particion de los discos y se le da click en el boton restart now
+
+![img40](img/img_40.png)
+
 
 # Tutotial hecho por:
 * Diego Marcelo Jimenez Melendez
