@@ -171,7 +171,7 @@ despues de estos pasos se da clic derecho del mouse en la linea de color azul y 
 
  En el ultimo paso de la particion del disco le damos en la opcion close
 
-  ![img28](img/img_28.png)
+  ![img60](img/img_60.png)
 
   # 4.2 Crear las particiones del segundo disco
 
