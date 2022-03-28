@@ -259,7 +259,21 @@ Configura el motor de arranque
 
 ![img48](img/img_48.png)
 
+se introduce los datos de la persona que utiliza la maquina
 
+![img50](img/img_50.png)
+
+la maquina arroja los datos que ella va a utilizar
+
+![img51](img/img_51.png)
+
+En este punto se da click en el boton install
+
+![img52](img/img_52.png)
+
+En este punto se ha terminado la instalacion del SO linux Solus
+
+![img53](img/img_53.png)
 
 # Tutotial hecho por:
 * Diego Marcelo Jimenez Melendez
