@@ -245,7 +245,25 @@ En este punto se ha terminado la instalacion del SO linux Solus
 
 ![img53](img/img_53.png)
 
+# 4.5 configurar las carpetas
 
+en este paso debemos colocar las carpetas en las diferentes particiones de los discos, para ello se debe  dirigir a la interfaz de solus y seleccionar en la parte inferior izquierda los cuadros.
+
+![img70](img/img_70%20.png)
+
+una vez realizado este paso, se dirige a la barra de busqueda y escribe terminal
+
+![img70](img/img_71.png)
+
+una vez haya ingresado se deben colocar los siguientes comandos
+
+
+![img70](img/img_72.png)
+
+Este comando nos sirve para crear los diferentes discos y particiones que hay en la maquina virtual, pero este paso se lo debe omitir, ya que los discos y las particiones ya estan creadas
+
+
+![img70](img/img_73.png)
 
 
 
