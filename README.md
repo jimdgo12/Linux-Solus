@@ -280,9 +280,27 @@ y para comprobar que los archivos estan en el lugar correcto escribimos el coman
 
 # 4.8 comprobacion de los pasos realizados
 
-Se debe ingresar a la interfaz de solus y seleccionar en la imagen marcada
+Se debe ingresar a la interfaz de solus y seleccionar en la imagen marcada 
 
-![img76](img/img_76.png)
+![img77](img/img_77.png)
+
+se le da click en la pestaña home para ver las carpetas se le da click en home
+
+![img78](img/img_78.png)
+
+ahora se da click en other locations y en 4.3GB 
+
+![img79](img/img_79.png)
+
+Una vez haya ingresado le aparece la carpeta life
+
+![img80](img/img_80.png)
+
+ y dentro de esta carpeta se encuentran las diferentes carpetas del SO
+
+ ![img81](img/img_81.png)
+
+ una vez comprobado que las carpetas estan en sus debidas particiones...se puede decir que se temino la instalacion y configuracion de solus Budgie
 
 
 # Tutotial hecho por:
