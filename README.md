@@ -255,16 +255,34 @@ una vez realizado este paso, se dirige a la barra de busqueda y escribe terminal
 
 ![img70](img/img_71.png)
 
-una vez haya ingresado se deben colocar los siguientes comandos
+una vez haya ingresado se deben colocar los siguientes comandos sudo fdisk/dev/sdb, despues le pide un comando y de presionar la tecla p y ya le apareceran las particiones de los discos
 
 
-![img70](img/img_72.png)
+![img74](img/img_74.png)
 
-Este comando nos sirve para crear los diferentes discos y particiones que hay en la maquina virtual, pero este paso se lo debe omitir, ya que los discos y las particiones ya estan creadas
-
+ Una vez realizado este paso nos pide que insertemos un comando y presionamos q para salir
 
 ![img70](img/img_73.png)
 
+# 4.6 crear un sistema de archivos en la particion
+
+Esto se logra facilmente con el comando sudo mkfs -t ext4/dev/sdb1
+ 
+ Una vez realizado este paso, el sistema nos pregunta si deseamos proseguir, por lo que debemos presionar la tecla (y) de si
+
+ Ahora debemos pasar los archivos que se crearon en el sistema a las diferentes unidades de disco, aqui utilizamos los comandos para que estos conserven las propiedades de los archivos y comandos
+
+sudo cp-rp/home/*/mnt
+
+y para comprobar que los archivos estan en el lugar correcto escribimos el comando ls
+
+![img75](img/img_75.png)
+
+# 4.8 comprobacion de los pasos realizados
+
+Se debe ingresar a la interfaz de solus y seleccionar en la imagen marcada
+
+![img76](img/img_76.png)
 
 
 # Tutotial hecho por:
