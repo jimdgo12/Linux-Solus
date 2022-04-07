@@ -324,11 +324,20 @@ El nombre de el explorador de archivos es nautilis
 
 Una de sus principales ventajas es la capacidad de mostrar con mayor exactitud  los archivos recientes
 
-# 5 consulte el tipo de paquete
+# 5.1 consulte el tipo de paquete
 
 estos son los tipos de paquete que tiene el linux Solus
 
 ![img82](img/img_82.png)
+
+# 5.2 El sistema de gestion de paquetes
+
+El sistema de gestion de paquetes que utiliza Solus es el paquete eopkg para entregar software al usuario final.
+
+# 6 Consulte el modelo de lanzamiento de linux solus
+
+Linux Solus se convirtio en una distribucion de lanzamiento rodante curado. Es una version continua en el sentido de que una vez instalada, los usuarios finales tienen la garantia de recibir continuamente actualizaciones de seguridad y software para su instalacion de Solus
+
 
 
 # Tutotial hecho por:
