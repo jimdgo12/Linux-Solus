@@ -302,6 +302,34 @@ Una vez haya ingresado le aparece la carpeta life
 
  una vez comprobado que las carpetas estan en sus debidas particiones...se puede decir que se temino la instalacion y configuracion de solus Budgie
 
+ # LABORATORIO #2
+
+ # 2.1 Consultar la fundacion o empresa que esta detras de la distribucion "Solus Budgie"
+
+ Esta distribucion fue creada por  Ikey Doherty en el año 2015
+
+ # 2.2 consultar las ventajas de Solus Budgie sobre los demas
+
+La distribucion Solus utiliza unaversion derivada del gestor de paquetes PiSi, llamada eopkg, tambien utiliza su propio centro de software, en cuanto al escritorio Budgie es un escritorio muy rapido, fluido y personalizable. Ademas viene con los diferentes drivers para los ultimos componentes de hardware, incluso los ultimos procesadores de Intel y AMD, y las ultimas graficas Radeon y NVIDIA
+
+# 3 Consulte el entorno de escritorio que viene el Solus y agregue algunas ventajas
+
+El entorno de escritorio es Budgie, este entorno es muy rapido, fluido y personalizable. Ademas este entorno de escritorio es minimalista. 
+
+# 4.1 Consulte el nombre del explorador de archivos de solus
+
+El nombre de el explorador de archivos es nautilis
+
+# 4.2 cuales son las ventajas del explorador de archivos de linux solus?
+
+Una de sus principales ventajas es la capacidad de mostrar con mayor exactitud  los archivos recientes
+
+# 5 consulte el tipo de paquete
+
+estos son los tipos de paquete que tiene el linux Solus
+
+![img82](img/img_82.png)
+
 
 # Tutotial hecho por:
 * Diego Marcelo Jimenez Melendez
