@@ -326,13 +326,15 @@ Una de sus principales ventajas es la capacidad de mostrar con mayor exactitud  
 
 # 5.1 consulte el tipo de paquete
 
-estos son los tipos de paquete que tiene el linux Solus
+El gestor de paquetes que utiliza Solus  es el  paquetes Eopkg:
+
+Es el gestor de paquetes que trae por defecto solus-project desde su versión 1.2.0, este gestor está basado en PiSi, y trabaja con paquetes .eopkg los cuales se encuentran en los repositorios oficiales de esta distribución y que para la creación de dichos paquetes, el equipo de solus-project creó una herramienta de empaquetamiento llamada ykpg.7. A continuación se presentan los paquetes Eopkg
 
 ![img82](img/img_82.png)
 
 # 5.2 El sistema de gestion de paquetes
 
-El sistema de gestión de paquetes que utiliza Solus es el paquete eopkg para entregar software al usuario final.
+El sistema de gestión de paquetes que utiliza Solus es el paquete eopkg para entregar software al usuario final. Reversión del historial y del software Solus proporciona una función de retroceso y del historial a través de su administrador de paquetes, eopkg.
 
 # 6 Consulte el modelo de lanzamiento de linux solus
 
